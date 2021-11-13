@@ -34,6 +34,8 @@
 
 - [ ] _there is page with classes information_
 
+---
+
 ## Should have's
 
 ## Could have's
